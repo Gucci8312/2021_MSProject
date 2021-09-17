@@ -1,0 +1,45 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=824 outsize=330 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14460 outsize=2410 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13302 outsize=5041 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4358 outsize=1096 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21845 outsize=1002 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3007 outsize=1865 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6152 outsize=994 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Sort.compute(8): 'multi_compile' : unknown pragma ignored
+  api=4 insize=9233 outsize=2826 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10818 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10818 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10818 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=5744 outsize=629 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33306 outsize=1056 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11912 outsize=953 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10120 outsize=47198 ok=1

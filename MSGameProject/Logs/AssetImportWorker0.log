@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19042.1165; Version 2009; 64bit' Language: 'ja' Physical Memory: 16230 MB
+OS: 'Windows 10 Home; OS build 19042.1237; Version 2009; 64bit' Language: 'ja' Physical Memory: 16230 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -15,11 +15,11 @@ D:/unity/MS_Git/MSGameProject
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49814
+53769
 Successfully changed project path to: D:/unity/MS_Git/MSGameProject
 D:/unity/MS_Git/MSGameProject
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 104.93 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 294.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.3f1 (76626098c1c4)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
@@ -36,133 +36,186 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56444
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56260
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001787 seconds.
+Registered in 0.003824 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 102.57 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 211.62 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.767 seconds
+- Completed reload, in  3.509 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001851 seconds.
+Registered in 0.003383 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 110.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 318.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.217 seconds
+- Completed reload, in  3.587 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 1.19 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 2.53 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4152 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 248.4 MB.
-System memory in use after: 243.7 MB.
+Unloading 4219 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 267.7 MB.
+System memory in use after: 262.9 MB.
 
-Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 4530.
-Total: 5.126200 ms (FindLiveObjects: 0.341200 ms CreateObjectMapping: 0.165900 ms MarkObjects: 2.217500 ms  DeleteObjects: 2.400600 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/SampleSceneAssets/Scripts/SimpleCameraController.cs
-  artifactKey: Guid(14e519c409be4a1428028347410f5677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Scripts/SimpleCameraController.cs using Guid(14e519c409be4a1428028347410f5677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5162fd851bc3adb99b224dfe5165e34') in 0.036195 seconds
-  Import took 0.042070 seconds .
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 4602.
+Total: 11.609100 ms (FindLiveObjects: 1.172100 ms CreateObjectMapping: 0.728400 ms MarkObjects: 4.665100 ms  DeleteObjects: 5.041000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000383 seconds.
-  path: Assets/SampleSceneAssets/Scripts/PlayerControllerFPS.prefab
-  artifactKey: Guid(573ac53c334415945bf239de2c2f0511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Scripts/PlayerControllerFPS.prefab using Guid(573ac53c334415945bf239de2c2f0511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed14ceae036d9ecab046ae39e3205de') in 0.033608 seconds
-  Import took 0.038801 seconds .
+  path: Assets/HDRPDefaultResources/DefaultVFXResources.asset
+  artifactKey: Guid(145290c901d58b343bdeb3b4362c9ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/DefaultVFXResources.asset using Guid(145290c901d58b343bdeb3b4362c9ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f899499307cb9d4e884aecddfecf8038') in 0.322582 seconds
+  Import took 0.339231 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000357 seconds.
-  path: Assets/SampleSceneAssets/Scripts/LookWithMouse.cs
-  artifactKey: Guid(4eb578550bc4f824e97f0a72eac1f3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Scripts/LookWithMouse.cs using Guid(4eb578550bc4f824e97f0a72eac1f3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc0176ad4393591a161dbf2f73d410bb') in 0.005805 seconds
-  Import took 0.011038 seconds .
+  Time since last request: 0.000486 seconds.
+  path: Assets/HDRPDefaultResources/DefaultHDRISky.exr
+  artifactKey: Guid(54a3a0570aebe8949bec4966f1376581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/DefaultHDRISky.exr using Guid(54a3a0570aebe8949bec4966f1376581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ed2509e553874215b9e197b58c7cf2') in 0.188601 seconds
+  Import took 0.205917 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000357 seconds.
-  path: Assets/SampleSceneAssets/Scripts/PlayerMovement.cs
-  artifactKey: Guid(87f6dfceb3e39a947a312f7eeaa2a113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Scripts/PlayerMovement.cs using Guid(87f6dfceb3e39a947a312f7eeaa2a113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a07d8488b9730d8885566f1e699318eb') in 0.004740 seconds
-  Import took 0.010368 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000354 seconds.
-  path: Assets/SampleSceneAssets/Scripts
-  artifactKey: Guid(4719b0884aa2ce045bd0bc265ca981a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Scripts using Guid(4719b0884aa2ce045bd0bc265ca981a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795043a75fe44ca47a32b60b1044e69e') in 0.004822 seconds
-  Import took 0.010057 seconds .
+  Time since last request: 0.000488 seconds.
+  path: Assets/HDRPDefaultResources/DefaultHDRPAsset.asset
+  artifactKey: Guid(e93c35b24eb03c74284e7dc0b755bfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/DefaultHDRPAsset.asset using Guid(e93c35b24eb03c74284e7dc0b755bfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295c443f68cc6b430584b64f8ec086e5') in 0.417144 seconds
+  Import took 0.439662 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001967 seconds.
+Registered in 0.006270 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.66 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.778 seconds
+- Completed reload, in  2.892 seconds
 Platform modules already initialized, skipping
 Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Refreshing native plugins compatible for Editor in 11.82 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2.94 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4069 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 241.0 MB.
-System memory in use after: 236.3 MB.
+Unloading 4097 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 260.7 MB.
+System memory in use after: 256.0 MB.
 
-Unloading 78 unused Assets to reduce memory usage. Loaded Objects now: 4530.
-Total: 169.867800 ms (FindLiveObjects: 1.890100 ms CreateObjectMapping: 0.815900 ms MarkObjects: 157.426600 ms  DeleteObjects: 9.732000 ms)
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 4640.
+Total: 15.072600 ms (FindLiveObjects: 0.949700 ms CreateObjectMapping: 0.924700 ms MarkObjects: 5.845600 ms  DeleteObjects: 7.349800 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002150 seconds.
+Registered in 0.004784 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.189 seconds
+- Completed reload, in  2.899 seconds
 Platform modules already initialized, skipping
 Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.71 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4069 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 241.0 MB.
-System memory in use after: 236.3 MB.
+Unloading 4100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 261.5 MB.
+System memory in use after: 256.3 MB.
 
-Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 4533.
-Total: 6.575700 ms (FindLiveObjects: 0.536200 ms CreateObjectMapping: 0.473000 ms MarkObjects: 2.550700 ms  DeleteObjects: 3.014600 ms)
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 4644.
+Total: 20.642900 ms (FindLiveObjects: 1.927100 ms CreateObjectMapping: 0.678000 ms MarkObjects: 8.642200 ms  DeleteObjects: 9.392100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.113367 seconds.
+  path: Assets/Programmer/NagakiYuto/M_Dissolve2.mat
+  artifactKey: Guid(6998d76909603be43bbfee9285cecc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Programmer/NagakiYuto/M_Dissolve2.mat using Guid(6998d76909603be43bbfee9285cecc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c11cbd674bf9062efac4e548ac08d8') in 0.233115 seconds
+  Import took 0.249035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Programmer/NagakiYuto/Noise.png
+  artifactKey: Guid(5142a05f3f6ffb042a0c240252820822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Programmer/NagakiYuto/Noise.png using Guid(5142a05f3f6ffb042a0c240252820822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '749c10f663dd6b29cb9a3ad93dcfd726') in 0.172520 seconds
+  Import took 0.191665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001930 seconds.
+  path: Assets/Programmer/NagakiYuto/M_DissolveShader.mat
+  artifactKey: Guid(bbc8e06cf4a36514393602e22e6cc190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Programmer/NagakiYuto/M_DissolveShader.mat using Guid(bbc8e06cf4a36514393602e22e6cc190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7a86ab8e3651fad313a15e9fa37cceb') in 0.037308 seconds
+  Import took 0.060265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.038481 seconds.
+  path: Assets/Programmer/NagakiYuto/Explosion.shader
+  artifactKey: Guid(26f3af551ee2160408fee9da72eabd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Programmer/NagakiYuto/Explosion.shader using Guid(26f3af551ee2160408fee9da72eabd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0561dbab648aff314422ef2d6730e905') in 0.008238 seconds
+  Import took 0.014611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001136 seconds.
+  path: Assets/Programmer/NagakiYuto/Explosion.shader
+  artifactKey: Guid(26f3af551ee2160408fee9da72eabd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Programmer/NagakiYuto/Explosion.shader using Guid(26f3af551ee2160408fee9da72eabd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0561dbab648aff314422ef2d6730e905') in 0.002771 seconds
+  Import took 0.009577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.812087 seconds.
+  path: Assets/Programmer/NagakiYuto/VertexChange.cs
+  artifactKey: Guid(0202a216e31f171419acd26552a594b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Programmer/NagakiYuto/VertexChange.cs using Guid(0202a216e31f171419acd26552a594b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055e0d158537de4ba720fb4d241ec4ac') in 0.010168 seconds
+  Import took 0.016161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.034900 seconds.
+  path: Assets/Programmer/NagakiYuto/M_Dissolve2.mat
+  artifactKey: Guid(6998d76909603be43bbfee9285cecc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Programmer/NagakiYuto/M_Dissolve2.mat using Guid(6998d76909603be43bbfee9285cecc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6057937d5dcaf70f4ea656399a2278') in 0.022197 seconds
+  Import took 0.028709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Programmer/NagakiYuto/M_DissolveShader.mat
+  artifactKey: Guid(bbc8e06cf4a36514393602e22e6cc190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Programmer/NagakiYuto/M_DissolveShader.mat using Guid(bbc8e06cf4a36514393602e22e6cc190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122f94f2686a863af2825f53d8082a7c') in 0.014086 seconds
+  Import took 0.021324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001952 seconds.
+  path: Assets/Programmer/NagakiYuto/M_DissolveShader.mat
+  artifactKey: Guid(bbc8e06cf4a36514393602e22e6cc190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Programmer/NagakiYuto/M_DissolveShader.mat using Guid(bbc8e06cf4a36514393602e22e6cc190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122f94f2686a863af2825f53d8082a7c') in 0.012002 seconds
+  Import took 0.019769 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

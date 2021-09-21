@@ -1,0 +1,1091 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=4 type=0 insize=1582 outsize=690 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1582 outsize=354 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1341 outsize=790 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1341 outsize=402 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (30): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=7178 outsize=769 ok=1
+Cmd: preprocessCompute
+  insize=1252 outsize=1258 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1258 outsize=671 ok=1
+Cmd: preprocess
+  insize=1380 outsize=265 ok=1
+Cmd: preprocessCompute
+  insize=16415 outsize=16425 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16425 outsize=15364 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (257): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (269): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (281): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (293): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=10423 outsize=821 ok=1
+Cmd: preprocessCompute
+  insize=19328 outsize=19332 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SubsurfaceScattering.compute(12): 'multi_compile' : unknown pragma ignored
+  api=4 insize=19332 outsize=9045 ok=1
+Cmd: preprocessCompute
+  insize=6577 outsize=6583 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6583 outsize=3028 ok=1
+Cmd: preprocessCompute
+  insize=823 outsize=824 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=824 outsize=320 ok=1
+Cmd: preprocess
+  insize=1970 outsize=415 ok=1
+Cmd: preprocessCompute
+  insize=3899 outsize=3901 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at GTAOTemporalDenoise.compute(6): 'multi_compile' : unknown pragma ignored
+  api=4 insize=3901 outsize=3285 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (546): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (582): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (626): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (675): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (720): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (763): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (804): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (857): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (926): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (953): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=62745 outsize=29047 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (15): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=10011 outsize=320 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (16): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2976 outsize=325 ok=1
+Cmd: preprocess
+  insize=3962 outsize=719 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (15): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2201 outsize=319 ok=1
+Cmd: preprocessCompute
+  insize=29479 outsize=29487 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at ScreenSpaceReflections.compute(12): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at ScreenSpaceReflections.compute(13): 'multi_compile' : unknown pragma ignored
+  api=4 insize=29487 outsize=10475 ok=1
+Cmd: preprocessCompute
+  insize=4407 outsize=4415 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4415 outsize=695 ok=1
+Cmd: preprocessCompute
+  insize=8927 outsize=8931 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at UberPost.compute(12): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at UberPost.compute(13): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at UberPost.compute(14): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at UberPost.compute(15): 'multi_compile' : unknown pragma ignored
+  api=4 insize=8931 outsize=4096 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (121): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=4687 outsize=783 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (16): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=3721 outsize=299 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (17): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2718 outsize=287 ok=1
+Cmd: preprocessCompute
+  insize=5696 outsize=5700 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at HistogramExposure.compute(14): 'multi_compile' : unknown pragma ignored
+  api=4 insize=5700 outsize=3258 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (124): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (137): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (150): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (163): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=6599 outsize=1299 ok=1
+Cmd: preprocessCompute
+  insize=2476 outsize=2480 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2480 outsize=1150 ok=1
+Cmd: preprocess
+  insize=1701 outsize=360 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (30): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2311 outsize=446 ok=1
+Cmd: preprocessCompute
+  insize=2148 outsize=2150 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2150 outsize=1855 ok=1
+Cmd: preprocessCompute
+  insize=40023 outsize=40027 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=40027 outsize=15037 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (62): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (85): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (110): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (134): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=6440 outsize=836 ok=1
+Cmd: preprocessCompute
+  insize=552 outsize=554 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=554 outsize=433 ok=1
+Cmd: preprocessCompute
+  insize=17123 outsize=17133 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17133 outsize=8618 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (17): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=6907 outsize=278 ok=1
+Cmd: preprocessCompute
+  insize=3722 outsize=3726 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at DepthOfFieldPrefilter.compute(7): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at DepthOfFieldPrefilter.compute(8): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at DepthOfFieldPrefilter.compute(9): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at DepthOfFieldPrefilter.compute(10): 'multi_compile' : unknown pragma ignored
+  api=4 insize=3726 outsize=222 ok=1
+Cmd: preprocess
+  insize=3516 outsize=841 ok=1
+Cmd: preprocessCompute
+  insize=5729 outsize=5735 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5735 outsize=5733 ok=1
+Cmd: preprocessCompute
+  insize=1320 outsize=1326 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1326 outsize=666 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (45): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=1391 outsize=290 ok=1
+Cmd: preprocessCompute
+  insize=3461 outsize=3465 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at MotionBlurGenTilePass.compute(4): 'multi_compile' : unknown pragma ignored
+  api=4 insize=3465 outsize=4058 ok=1
+Cmd: preprocess
+  insize=18065 outsize=2591 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (13): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=5843 outsize=281 ok=1
+Cmd: preprocess
+  insize=2348 outsize=629 ok=1
+Cmd: preprocessCompute
+  insize=801 outsize=803 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NaNKiller.compute(7): 'multi_compile' : unknown pragma ignored
+  api=4 insize=803 outsize=741 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (48): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (77): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2781 outsize=553 ok=1
+Cmd: preprocessCompute
+  insize=3402 outsize=3414 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3414 outsize=2268 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (19): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=813 outsize=300 ok=1
+Cmd: preprocessCompute
+  insize=2552 outsize=2558 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2558 outsize=983 ok=1
+Cmd: preprocessCompute
+  insize=4520 outsize=4524 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BloomPrefilter.compute(11): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at BloomPrefilter.compute(12): 'multi_compile' : unknown pragma ignored
+  api=4 insize=4524 outsize=9743 ok=1
+Cmd: preprocessCompute
+  insize=1838 outsize=1842 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1842 outsize=1067 ok=1
+Cmd: preprocessCompute
+  insize=14438 outsize=14460 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14460 outsize=2101 ok=1
+Cmd: preprocessCompute
+  insize=3615 outsize=3627 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3627 outsize=4713 ok=1
+Cmd: preprocessCompute
+  insize=419 outsize=421 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=421 outsize=525 ok=1
+Cmd: preprocessCompute
+  insize=4895 outsize=4897 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4897 outsize=2757 ok=1
+Cmd: preprocess
+  insize=3067 outsize=1036 ok=1
+Cmd: preprocessCompute
+  insize=2685 outsize=2689 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at DepthOfFieldTileMax.compute(8): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at DepthOfFieldTileMax.compute(9): 'multi_compile' : unknown pragma ignored
+  api=4 insize=2689 outsize=222 ok=1
+Cmd: preprocessCompute
+  insize=859 outsize=865 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=865 outsize=578 ok=1
+Cmd: preprocessCompute
+  insize=13292 outsize=13302 ok=1
+Cmd: preprocessCompute
+  insize=38819 outsize=38823 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at VolumetricLighting.compute(10): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at VolumetricLighting.compute(11): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at VolumetricLighting.compute(12): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at VolumetricLighting.compute(13): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at VolumetricLighting.compute(14): 'multi_compile' : unknown pragma ignored
+  api=4 insize=38823 outsize=15737 ok=1
+Cmd: preprocessCompute
+  insize=8335 outsize=8345 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8345 outsize=7175 ok=1
+Cmd: preprocess
+  insize=8648 outsize=539 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (157): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (159): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (201): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (203): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (247): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (249): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (295): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (297): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (331): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (333): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (369): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (371): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (408): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (410): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (439): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (441): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (467): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (497): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (526): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (557): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (588): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=29184 outsize=11581 ok=1
+Cmd: preprocessCompute
+  insize=3145 outsize=3149 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3149 outsize=2624 ok=1
+Cmd: preprocess
+  insize=1495 outsize=207 ok=1
+Cmd: preprocessCompute
+  insize=1029 outsize=1031 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1031 outsize=3183 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (16): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=3142 outsize=327 ok=1
+Cmd: preprocess
+  insize=2087 outsize=353 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (228): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (257): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (286): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (318): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (351): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (389): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (429): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (491): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=25305 outsize=13532 ok=1
+Cmd: preprocessCompute
+  insize=4336 outsize=4358 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4358 outsize=1184 ok=1
+Cmd: preprocessCompute
+  insize=20491 outsize=20495 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at lightlistbuild.compute(6): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at lightlistbuild.compute(7): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at lightlistbuild.compute(8): 'multi_compile' : unknown pragma ignored
+  api=4 insize=20495 outsize=14437 ok=1
+Cmd: preprocessCompute
+  insize=2563 outsize=2569 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2569 outsize=719 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (357): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (388): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (428): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (473): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (508): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (544): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (592): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (626): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (653): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (721): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (784): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (811): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=41990 outsize=20033 ok=1
+Cmd: preprocessCompute
+  insize=10989 outsize=11001 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11001 outsize=3395 ok=1
+Cmd: preprocessCompute
+  insize=3598 outsize=3602 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3602 outsize=1059 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (77): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (104): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=4009 outsize=868 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (54): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=1508 outsize=295 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (15): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2393 outsize=302 ok=1
+Cmd: preprocessCompute
+  insize=2379 outsize=2383 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2383 outsize=25706 ok=1
+Cmd: preprocessCompute
+  insize=3062 outsize=3066 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3066 outsize=2732 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (31): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (52): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (64): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=1698 outsize=1069 ok=1
+Cmd: preprocessCompute
+  insize=20782 outsize=20794 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20794 outsize=8244 ok=1
+Cmd: preprocess
+  insize=3693 outsize=367 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (17): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=7132 outsize=286 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (77): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (88): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2888 outsize=504 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (17): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (31): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=1082 outsize=496 ok=1
+Cmd: preprocessCompute
+  insize=3600 outsize=3604 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3604 outsize=1646 ok=1
+Cmd: preprocessCompute
+  insize=8882 outsize=8888 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8888 outsize=6847 ok=1
+Cmd: preprocessCompute
+  insize=8847 outsize=8851 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8851 outsize=2280 ok=1
+Cmd: preprocessCompute
+  insize=9195 outsize=9199 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at LutBuilder3D.compute(7): 'multi_compile' : unknown pragma ignored
+  api=4 insize=9199 outsize=7860 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (159): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (170): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (181): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (192): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (203): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (214): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (225): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (236): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (247): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (259): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (271): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (283): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (295): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (307): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=10109 outsize=3015 ok=1
+Cmd: preprocessCompute
+  insize=7361 outsize=7363 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at GTAO.compute(8): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at GTAO.compute(9): 'multi_compile' : unknown pragma ignored
+  api=4 insize=7363 outsize=8251 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (95): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=3243 outsize=295 ok=1
+Cmd: preprocessCompute
+  insize=5475 outsize=5487 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5487 outsize=588 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (15): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=15417 outsize=339 ok=1
+Cmd: preprocess
+  insize=8285 outsize=340 ok=1
+Cmd: preprocessCompute
+  insize=21827 outsize=21845 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21845 outsize=2349 ok=1
+Cmd: preprocess
+  insize=2618 outsize=560 ok=1
+Cmd: preprocess
+  insize=3656 outsize=621 ok=1
+Cmd: preprocess
+  insize=1021 outsize=359 ok=1
+Cmd: preprocessCompute
+  insize=5437 outsize=5443 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at DepthOfFieldGather.compute(10): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at DepthOfFieldGather.compute(11): 'multi_compile' : unknown pragma ignored
+  api=4 insize=5443 outsize=2390 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (21): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=3257 outsize=363 ok=1
+Cmd: preprocessCompute
+  insize=6022 outsize=6026 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6026 outsize=2752 ok=1
+Cmd: preprocessCompute
+  insize=3001 outsize=3007 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3007 outsize=1860 ok=1
+Cmd: preprocess
+  insize=1795 outsize=457 ok=1
+Cmd: preprocessCompute
+  insize=3901 outsize=3905 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at DepthOfFieldCombine.compute(9): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at DepthOfFieldCombine.compute(10): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at DepthOfFieldCombine.compute(11): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at DepthOfFieldCombine.compute(12): 'multi_compile' : unknown pragma ignored
+  api=4 insize=3905 outsize=433 ok=1
+Cmd: preprocess
+  insize=2051 outsize=290 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (15): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=19633 outsize=319 ok=1
+Cmd: preprocessCompute
+  insize=4140 outsize=4144 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at DepthOfFieldCoCReproject.compute(7): 'multi_compile' : unknown pragma ignored
+  api=4 insize=4144 outsize=2419 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (117): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=3823 outsize=312 ok=1
+Cmd: preprocessCompute
+  insize=14405 outsize=14415 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14415 outsize=7763 ok=1
+Cmd: preprocess
+  insize=1709 outsize=249 ok=1
+Cmd: preprocessCompute
+  insize=647 outsize=651 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=651 outsize=494 ok=1
+Cmd: preprocess
+  insize=1283 outsize=168 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (17): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2186 outsize=493 ok=1
+Cmd: preprocessCompute
+  insize=8363 outsize=8369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8369 outsize=2926 ok=1
+Cmd: preprocessCompute
+  insize=6144 outsize=6152 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6152 outsize=1138 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (85): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (112): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (138): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (165): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (198): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=8933 outsize=4989 ok=1
+Cmd: preprocessCompute
+  insize=700 outsize=704 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=704 outsize=730 ok=1
+Cmd: preprocessCompute
+  insize=11856 outsize=11858 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at MotionBlur.compute(8): 'multi_compile' : unknown pragma ignored
+  api=4 insize=11858 outsize=5605 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (121): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=4230 outsize=365 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (169): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=6674 outsize=266 ok=1
+Cmd: preprocessCompute
+  insize=6333 outsize=6349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6349 outsize=6014 ok=1
+Cmd: preprocessCompute
+  insize=1595 outsize=1599 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1599 outsize=16101 ok=1
+Cmd: preprocess
+  insize=3537 outsize=381 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (20): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=1789 outsize=299 ok=1
+Cmd: preprocess
+  insize=1053 outsize=175 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (562): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (597): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (636): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (681): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (722): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (760): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (796): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (844): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (908): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=48743 outsize=28257 ok=1
+Cmd: preprocessCompute
+  insize=9221 outsize=9233 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Sort.compute(8): 'multi_compile' : unknown pragma ignored
+  api=4 insize=9233 outsize=2791 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (103): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (114): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (125): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (136): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=4218 outsize=818 ok=1
+Cmd: preprocessCompute
+  insize=26393 outsize=26415 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26415 outsize=15481 ok=1
+Cmd: preprocessCompute
+  insize=10754 outsize=10818 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10818 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10818 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=9515 outsize=9527 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9527 outsize=6494 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (79): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (92): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2660 outsize=458 ok=1
+Cmd: preprocessCompute
+  insize=1637 outsize=1641 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at DepthOfFieldPreCombineFar.compute(9): 'multi_compile' : unknown pragma ignored
+  api=4 insize=1641 outsize=898 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (17): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=5618 outsize=294 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (364): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (377): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (390): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (403): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=14228 outsize=1001 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (126): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (153): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (179): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (206): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (246): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (276): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=12112 outsize=6703 ok=1
+Cmd: preprocessCompute
+  insize=3618 outsize=3626 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3626 outsize=1852 ok=1
+Cmd: preprocessCompute
+  insize=5736 outsize=5744 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5744 outsize=7136 ok=1
+Cmd: preprocessCompute
+  insize=3633 outsize=3637 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at materialflags.compute(3): 'multi_compile' : unknown pragma ignored
+  api=4 insize=3637 outsize=4110 ok=1
+Cmd: preprocessCompute
+  insize=3691 outsize=3695 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3695 outsize=3172 ok=1
+Cmd: preprocessCompute
+  insize=4779 outsize=4781 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at GTAOSpatialDenoise.compute(8): 'multi_compile' : unknown pragma ignored
+  api=4 insize=4781 outsize=4262 ok=1
+Cmd: preprocess
+  insize=949 outsize=218 ok=1
+Cmd: preprocess
+  insize=2414 outsize=2035 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (81): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (99): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=3389 outsize=888 ok=1
+Cmd: preprocess
+  insize=1767 outsize=455 ok=1
+Cmd: preprocessCompute
+  insize=33284 outsize=33306 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33306 outsize=5713 ok=1
+Cmd: preprocessCompute
+  insize=2603 outsize=2609 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2609 outsize=562 ok=1
+Cmd: preprocessCompute
+  insize=3716 outsize=3720 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at PaniniProjection.compute(8): 'multi_compile' : unknown pragma ignored
+  api=4 insize=3720 outsize=1621 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (137): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (171): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (212): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (248): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (271): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (273): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=13431 outsize=7249 ok=1
+Cmd: preprocessCompute
+  insize=1145 outsize=1149 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at DepthOfFieldMipSafe.compute(8): 'multi_compile' : unknown pragma ignored
+  api=4 insize=1149 outsize=908 ok=1
+Cmd: preprocess
+  insize=408 outsize=408 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (77): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (107): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (138): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (174): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (205): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=6436 outsize=2703 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (280): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (300): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=12294 outsize=1186 ok=1
+Cmd: preprocessCompute
+  insize=11906 outsize=11912 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11912 outsize=1172 ok=1
+Cmd: preprocess
+  insize=4049 outsize=682 ok=1
+Cmd: preprocessCompute
+  insize=1891 outsize=1895 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BloomUpsample.compute(9): 'multi_compile' : unknown pragma ignored
+  api=4 insize=1895 outsize=2839 ok=1
+Cmd: preprocessCompute
+  insize=1953 outsize=1957 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1957 outsize=1383 ok=1
+Cmd: preprocessCompute
+  insize=6291 outsize=6295 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6295 outsize=9170 ok=1
+Cmd: preprocessCompute
+  insize=2325 outsize=2329 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2329 outsize=2148 ok=1
+Cmd: preprocess
+  insize=1358 outsize=373 ok=1
+Cmd: preprocessCompute
+  insize=3611 outsize=3617 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3617 outsize=2533 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (104): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (115): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (126): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (137): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=4056 outsize=819 ok=1
+Cmd: preprocessCompute
+  insize=2870 outsize=2872 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Accumulation.compute(7): 'multi_compile' : unknown pragma ignored
+  api=4 insize=2872 outsize=2123 ok=1
+Cmd: preprocessCompute
+  insize=6129 outsize=6133 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at MotionBlurMotionVecPrep.compute(11): 'multi_compile' : unknown pragma ignored
+  api=4 insize=6133 outsize=29 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (97): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=4282 outsize=1450 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (769): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (781): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (793): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (804): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=32680 outsize=876 ok=1
+Cmd: preprocessCompute
+  insize=476 outsize=480 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=480 outsize=324 ok=1
+Cmd: preprocessCompute
+  insize=7056 outsize=7060 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at DoFGather.compute(11): 'multi_compile' : unknown pragma ignored
+  api=4 insize=7060 outsize=5122 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (62): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (87): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2685 outsize=1157 ok=1
+Cmd: preprocessCompute
+  insize=11318 outsize=11322 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at ContactShadows.compute(3): 'multi_compile' : unknown pragma ignored
+  api=4 insize=11322 outsize=9759 ok=1
+Cmd: preprocessCompute
+  insize=3248 outsize=3252 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at builddispatchindirect.compute(3): 'multi_compile' : unknown pragma ignored
+  api=4 insize=3252 outsize=2149 ok=1
+Cmd: preprocessCompute
+  insize=6865 outsize=6871 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at ColorPyramid.compute(27): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at ColorPyramid.compute(28): 'multi_compile' : unknown pragma ignored
+  api=4 insize=6871 outsize=6575 ok=1
+Cmd: preprocessCompute
+  insize=4757 outsize=4765 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4765 outsize=418 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (63): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2053 outsize=313 ok=1
+Cmd: preprocessCompute
+  insize=12310 outsize=12314 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12314 outsize=10095 ok=1
+Cmd: preprocessCompute
+  insize=6972 outsize=6976 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at MotionBlurNeighborhoodTilePass.compute(6): 'multi_compile' : unknown pragma ignored
+  api=4 insize=6976 outsize=2288 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (345): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (383): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (430): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (481): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (563): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (617): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (665): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (710): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (785): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (854): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (887): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (916): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=59085 outsize=21298 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (160): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (171): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (182): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (193): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=7329 outsize=815 ok=1
+Cmd: preprocessCompute
+  insize=10112 outsize=10120 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10120 outsize=105168 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (104): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (118): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (132): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (146): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=4284 outsize=948 ok=1
+Cmd: preprocessCompute
+  insize=5450 outsize=5454 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5454 outsize=3116 ok=1
+Cmd: preprocess
+  insize=3364 outsize=573 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (62): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=1685 outsize=682 ok=1
+Cmd: preprocessCompute
+  insize=10317 outsize=10327 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10327 outsize=9672 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (48): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (80): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (109): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (138): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=5394 outsize=1226 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (34): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (300): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=18157 outsize=1422 ok=1
+Cmd: preprocess
+  insize=3267 outsize=386 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (66): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=2381 outsize=289 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (15): Unrecognized renderer for #pragma only_renderers: xboxseries
+  error: 1 plat 21 at (31): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=1279 outsize=476 ok=1
+Cmd: preprocessCompute
+  insize=495 outsize=497 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=497 outsize=471 ok=1
+Cmd: preprocessCompute
+  insize=1442 outsize=1444 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1444 outsize=1391 ok=1
+Cmd: preprocessCompute
+  insize=11050 outsize=11058 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11058 outsize=3364 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (77): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=3238 outsize=296 ok=1
+Cmd: preprocess
+  error: 1 plat 21 at (15): Unrecognized renderer for #pragma only_renderers: xboxseries
+  insize=1825 outsize=313 ok=1
+Cmd: preprocessCompute
+  insize=4033 outsize=4037 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4037 outsize=4052 ok=1
+Cmd: preprocessCompute
+  insize=4714 outsize=4718 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4718 outsize=2223 ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=810 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=142 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _THICKNESSMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_TRANSMISSION
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=1034 kw=UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _THICKNESSMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_TRANSMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _THICKNESSMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_TRANSMISSION
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=758 kw=UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _THICKNESSMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_TRANSMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _DOUBLESIDED_ON _PIXEL_DISPLACEMENT _DISPLACEMENT_LOCK_TILING_SCALE _PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=1630 kw=UNITY_PASS_SHADOWCASTER _DOUBLESIDED_ON _PIXEL_DISPLACEMENT _DISPLACEMENT_LOCK_TILING_SCALE _PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _DOUBLESIDED_ON _PIXEL_DISPLACEMENT _DISPLACEMENT_LOCK_TILING_SCALE _PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=286 kw=UNITY_PASS_SHADOWCASTER _DOUBLESIDED_ON _PIXEL_DISPLACEMENT _DISPLACEMENT_LOCK_TILING_SCALE _PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _REFRACTION_THIN _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT _ENABLE_FOG_ON_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=810 kw=UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _REFRACTION_THIN _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT _ENABLE_FOG_ON_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _REFRACTION_THIN _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT _ENABLE_FOG_ON_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=182 kw=UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _REFRACTION_THIN _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT _ENABLE_FOG_ON_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1302 outsize=1414 kw=UNITY_PASS_SHADOWCASTER SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1302 outsize=218 kw=UNITY_PASS_SHADOWCASTER SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1602 outsize=1894 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1602 outsize=6766 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1460 outsize=1690 kw=UNITY_PASS_FORWARDADD DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1460 outsize=3358 kw=UNITY_PASS_FORWARDADD DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (179): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER INSTANCING_ON _TERRAIN_INSTANCED_PERPIXEL_NORMAL
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=2049 outsize=1386 kw=UNITY_PASS_SHADOWCASTER INSTANCING_ON _TERRAIN_INSTANCED_PERPIXEL_NORMAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (179): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER INSTANCING_ON _TERRAIN_INSTANCED_PERPIXEL_NORMAL
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=2049 outsize=238 kw=UNITY_PASS_SHADOWCASTER INSTANCING_ON _TERRAIN_INSTANCED_PERPIXEL_NORMAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _MAPPING_TRIPLANAR _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=810 kw=UNITY_PASS_SHADOWCASTER _MAPPING_TRIPLANAR _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _MAPPING_TRIPLANAR _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=142 kw=UNITY_PASS_SHADOWCASTER _MAPPING_TRIPLANAR _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=810 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=142 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER INSTANCING_ON _ALPHATEST_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=1302 kw=UNITY_PASS_SHADOWCASTER INSTANCING_ON _ALPHATEST_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER INSTANCING_ON _ALPHATEST_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=758 kw=UNITY_PASS_SHADOWCASTER INSTANCING_ON _ALPHATEST_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (369): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  error: 1 plat 21 at (371): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=3266 outsize=810 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (369): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  error: 1 plat 21 at (371): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=3266 outsize=142 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_TRANSMISSION
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=1034 kw=UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_TRANSMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_TRANSMISSION
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=758 kw=UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_TRANSMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DETAIL_MAP _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=810 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DETAIL_MAP _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DETAIL_MAP _DISABLE_SSR_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=142 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DETAIL_MAP _DISABLE_SSR_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=810 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=142 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT _ENABLE_FOG_ON_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=810 kw=UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT _ENABLE_FOG_ON_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT _ENABLE_FOG_ON_TRANSPARENT
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=182 kw=UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _DISABLE_SSR_TRANSPARENT _ENABLE_FOG_ON_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=810 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=142 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _BENTNORMALMAP _THICKNESSMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_SUBSURFACE_SCATTERING _MATERIAL_FEATURE_TRANSMISSION
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=1034 kw=UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _BENTNORMALMAP _THICKNESSMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_SUBSURFACE_SCATTERING _MATERIAL_FEATURE_TRANSMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _BENTNORMALMAP _THICKNESSMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_SUBSURFACE_SCATTERING _MATERIAL_FEATURE_TRANSMISSION
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=758 kw=UNITY_PASS_SHADOWCASTER _ALPHATEST_ON _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _BENTNORMALMAP _THICKNESSMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_SUBSURFACE_SCATTERING _MATERIAL_FEATURE_TRANSMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (17): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=2024 outsize=518 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (17): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=2024 outsize=538 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7077 outsize=810 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (521): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7077 outsize=142 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _NORMALMAP _DISABLE_SSR_TRANSPARENT _MATERIAL_FEATURE_CLEAR_COAT _MATERIAL_FEATURE_IRIDESCENCE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (508): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Vertex program with UNITY_PASS_SHADOWCASTER _TESSELLATION_DISPLACEMENT _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE _DISPLACEMENT_LOCK_TILING_SCALE _TESSELLATION_PHONG _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=7088 outsize=1214 kw=UNITY_PASS_SHADOWCASTER _TESSELLATION_DISPLACEMENT _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE _DISPLACEMENT_LOCK_TILING_SCALE _TESSELLATION_PHONG _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (508): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Fragment program with UNITY_PASS_SHADOWCASTER _TESSELLATION_DISPLACEMENT _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE _DISPLACEMENT_LOCK_TILING_SCALE _TESSELLATION_PHONG _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=7088 outsize=142 kw=UNITY_PASS_SHADOWCASTER _TESSELLATION_DISPLACEMENT _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE _DISPLACEMENT_LOCK_TILING_SCALE _TESSELLATION_PHONG _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (508): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Hull program with UNITY_PASS_SHADOWCASTER _TESSELLATION_DISPLACEMENT _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE _DISPLACEMENT_LOCK_TILING_SCALE _TESSELLATION_PHONG _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=2 insize=7088 outsize=6002 kw=UNITY_PASS_SHADOWCASTER _TESSELLATION_DISPLACEMENT _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE _DISPLACEMENT_LOCK_TILING_SCALE _TESSELLATION_PHONG _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 21 at (508): Unrecognized renderer for #pragma only_renderers: xboxseries\nCompiling Domain program with UNITY_PASS_SHADOWCASTER _TESSELLATION_DISPLACEMENT _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE _DISPLACEMENT_LOCK_TILING_SCALE _TESSELLATION_PHONG _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=3 insize=7088 outsize=2206 kw=UNITY_PASS_SHADOWCASTER _TESSELLATION_DISPLACEMENT _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE _DISPLACEMENT_LOCK_TILING_SCALE _TESSELLATION_PHONG _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5029 outsize=1138 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5029 outsize=3534 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5029 outsize=1138 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5029 outsize=3534 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7853 outsize=1138 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7853 outsize=4770 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7853 outsize=1138 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7853 outsize=4770 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1341 outsize=790 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1341 outsize=402 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1878 outsize=1082 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1878 outsize=778 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1878 outsize=1082 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1878 outsize=778 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1842 outsize=1082 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1842 outsize=798 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1842 outsize=1082 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1842 outsize=798 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1701 outsize=1094 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1701 outsize=522 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1701 outsize=1094 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1701 outsize=522 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4140 outsize=1342 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4140 outsize=1026 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=16577 outsize=5358 kw=_SUNDISK_NONE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=16577 outsize=422 kw=_SUNDISK_NONE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=16577 outsize=5642 kw=_SUNDISK_SIMPLE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=16577 outsize=882 kw=_SUNDISK_SIMPLE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
